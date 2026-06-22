@@ -8,9 +8,7 @@
 </div>
 
 
-
-
-# Problem Statement
+# Problem
 
 Coronavirus disease (Covid-19) is an infectious disease caused by the SARS-CoV-2 virus. Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention. Since the beginning of 2020, Covid-19 virus has spread to every continent of the world. Nowadays, more people are infected with Covid-19.
 
